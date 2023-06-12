@@ -1,0 +1,17 @@
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500ParserWinForms.exe
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500ParserWinForms.deps.json
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500ParserWinForms.runtimeconfig.json
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500ParserWinForms.runtimeconfig.dev.json
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500ParserWinForms.dll
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500ParserWinForms.pdb
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\IDScanNet.dlplib.dll
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\bin\x86\Debug\netcoreapp3.0\M500api.dll
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.csproj.AssemblyReference.cache
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.AssemblyInfoInputs.cache
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.AssemblyInfo.cs
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.csproj.CoreCompileInputs.cache
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.csproj.CopyComplete
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.dll
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.pdb
+C:\Users\cgrant2\source\repos\M500ParserWinForms\M500ParserWinForms\obj\x86\Debug\netcoreapp3.0\M500ParserWinForms.genruntimeconfig.cache

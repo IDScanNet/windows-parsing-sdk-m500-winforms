@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "umEaAvxZhs+0aPjJNRHyXqkiKCMbnTBiCNkCNK4wOdUL/FWHGxgjdBn+r1RftQeCoNFGfyMMHcIvBI9e9V056Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cgrant2\\source\\repos\\M500ParserWinForms\\M500ParserWinForms\\M500ParserWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cgrant2\\.nuget\\packages\\idscannet.dlplib\\16.2306.5\\idscannet.dlplib.16.2306.5.nupkg.sha512",
+    "C:\\Users\\cgrant2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\cgrant2\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
